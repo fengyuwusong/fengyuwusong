@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🏢 Software Engineer @ **AfterShip**, based in Guangzhou 🇨🇳
+- 🏢 Software Engineer @ **AfterShip**, based in Shenzhen 🇨🇳
 - 🔭 Currently focused on **GraphQL Gateway / API Infrastructure**
 - 🌱 Contributing to [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) — the engine behind Cosmo GraphQL Router
 - 🤖 Exploring **AI-Native development** and LLM-powered workflows
