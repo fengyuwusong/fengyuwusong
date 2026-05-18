@@ -50,16 +50,15 @@
 
 Selected merged PRs to upstream open-source projects:
 
-| Date | Project | PR | Contribution |
-| --- | --- | --- | --- |
-| 2026-05 | [raycast/extensions](https://github.com/raycast/extensions) | [#27880](https://github.com/raycast/extensions/pull/27880) | Linear: don't lookup empty-string IDs in tool confirmation preview |
-| 2026-03 | [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) | [#1447](https://github.com/wundergraph/graphql-go-tools/pull/1447) | Preserve nullable nested input presence in gRPC compiler |
-| 2025-03 | [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) | [#3331](https://github.com/tailcallhq/tailcall/pull/3331) | connectRPC: add Connect-Protocol-Version header to gRPC requests |
-| 2024-10 | [opennaslab/kubespider](https://github.com/opennaslab/kubespider) | [#546](https://github.com/opennaslab/kubespider/pull/546) | Fix docker-compose depend services name error |
-| 2023-01 | [go-kratos/go-kratos.dev](https://github.com/go-kratos/go-kratos.dev) | [#180](https://github.com/go-kratos/go-kratos.dev/pull/180) | Fix `protoc-gen-go-errors` install command in docs |
-| 2022-08 | [dtm-labs/dtm](https://github.com/dtm-labs/dtm) | [#342](https://github.com/dtm-labs/dtm/pull/342) | Support Saga options `RetryLimit` |
-| 2022-07 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | [#2208](https://github.com/go-kratos/kratos/pull/2208) | Update `README_zh.md` |
-| 2022-07 | [go-kratos/go-kratos.dev](https://github.com/go-kratos/go-kratos.dev) | [#148](https://github.com/go-kratos/go-kratos.dev/pull/148) | Docs: update `06-ratelimit.md` (zh & en) |
+| Project | PR |
+| --- | --- |
+| [raycast/extensions](https://github.com/raycast/extensions) | [#27880](https://github.com/raycast/extensions/pull/27880) |
+| [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) | [#1447](https://github.com/wundergraph/graphql-go-tools/pull/1447) |
+| [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) | [#3331](https://github.com/tailcallhq/tailcall/pull/3331) |
+| [opennaslab/kubespider](https://github.com/opennaslab/kubespider) | [#546](https://github.com/opennaslab/kubespider/pull/546) |
+| [go-kratos/kratos](https://github.com/go-kratos/kratos) | [#2208](https://github.com/go-kratos/kratos/pull/2208) |
+| [go-kratos/go-kratos.dev](https://github.com/go-kratos/go-kratos.dev) | [#148](https://github.com/go-kratos/go-kratos.dev/pull/148), [#180](https://github.com/go-kratos/go-kratos.dev/pull/180) |
+| [dtm-labs/dtm](https://github.com/dtm-labs/dtm) | [#342](https://github.com/dtm-labs/dtm/pull/342) |
 
 ---
 
