@@ -16,7 +16,6 @@
 
 - 🏢 Software Engineer @ **AfterShip**, based in Shenzhen 🇨🇳
 - 🔭 Currently focused on **GraphQL Gateway / API Infrastructure**
-- 🌱 Contributing to [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) — the engine behind Cosmo GraphQL Router
 - 🤖 Exploring **AI-Native development** and LLM-powered workflows
 - ✍️ Writing tech blogs at [fengyuwusong.cn](https://www.fengyuwusong.cn)
 - 💬 Ask me about **Go, GraphQL, Cloud Native, Microservices**
@@ -47,21 +46,20 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [cosmo-grpc-graph-demo](https://github.com/fengyuwusong/cosmo-grpc-graph-demo) | Cosmo Router + gRPC GraphQL federation demo | Go, GraphQL |
-| [cosmo-connect-bridge-poc](https://github.com/fengyuwusong/cosmo-connect-bridge-poc) | Bridge Cosmo Router plugin gRPC into ConnectRPC | Go, gRPC |
-| [ai-native](https://github.com/fengyuwusong/ai-native) | AI Native projects and experiments | Python, LLM |
-| [meetspot](https://github.com/fengyuwusong/meetspot) | 运动场所分享平台 — 找场地找搭子 | Vue |
-| [companion-survey](https://github.com/fengyuwusong/companion-survey) | 情侣关系健康度测评 | TypeScript, React |
-
----
-
 ### 🌟 Open Source Contributions
 
-- **[wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools)** — GraphQL execution engine powering WunderGraph Cosmo Router
+Selected merged PRs to upstream open-source projects:
+
+| Date | Project | PR | Contribution |
+| --- | --- | --- | --- |
+| 2026-05 | [raycast/extensions](https://github.com/raycast/extensions) | [#27880](https://github.com/raycast/extensions/pull/27880) | Linear: don't lookup empty-string IDs in tool confirmation preview |
+| 2026-03 | [wundergraph/graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) | [#1447](https://github.com/wundergraph/graphql-go-tools/pull/1447) | Preserve nullable nested input presence in gRPC compiler |
+| 2025-03 | [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) | [#3331](https://github.com/tailcallhq/tailcall/pull/3331) | connectRPC: add Connect-Protocol-Version header to gRPC requests |
+| 2024-10 | [opennaslab/kubespider](https://github.com/opennaslab/kubespider) | [#546](https://github.com/opennaslab/kubespider/pull/546) | Fix docker-compose depend services name error |
+| 2023-01 | [go-kratos/go-kratos.dev](https://github.com/go-kratos/go-kratos.dev) | [#180](https://github.com/go-kratos/go-kratos.dev/pull/180) | Fix `protoc-gen-go-errors` install command in docs |
+| 2022-08 | [dtm-labs/dtm](https://github.com/dtm-labs/dtm) | [#342](https://github.com/dtm-labs/dtm/pull/342) | Support Saga options `RetryLimit` |
+| 2022-07 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | [#2208](https://github.com/go-kratos/kratos/pull/2208) | Update `README_zh.md` |
+| 2022-07 | [go-kratos/go-kratos.dev](https://github.com/go-kratos/go-kratos.dev) | [#148](https://github.com/go-kratos/go-kratos.dev/pull/148) | Docs: update `06-ratelimit.md` (zh & en) |
 
 ---
 
@@ -69,14 +67,19 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fengyuwusong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengyuwusong&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=fengyuwusong.github.io&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fengyuwusong&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fengyuwusong&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fengyuwusong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
